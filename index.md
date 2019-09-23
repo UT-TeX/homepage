@@ -2,13 +2,7 @@
 
 
 
-This homepage is under construction.
-
-See [https://ut-tex.org](https://ut-tex.org) for now.
-
-
-
-## About Us
+## 1. About Us
 
 
 
@@ -20,7 +14,7 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
 
 
-## Announcement
+## 2. Announcement
 
 
 
@@ -30,7 +24,7 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
   
 
-## Seminar
+## 3. Seminar
 
 
 
@@ -64,7 +58,7 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
 
 
-## Weekly Macros
+## 4. Weekly Macros
 
 
 
@@ -74,7 +68,7 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
 
 
-## Contact
+## 5. Contact
 
 
 
@@ -84,7 +78,7 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
 
 
-## Twitter
+## 6. Twitter
 
 <a class="twitter-timeline" href="https://twitter.com/ut_tex_club?ref_src=twsrc%5Etfw">Tweets by ut_tex_club</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
