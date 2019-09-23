@@ -42,7 +42,9 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
 
 
-:::TODO::: githubリポジトリに移行してリンクを貼る
+2015年，毎週金曜日に駒場キャンパスにて latex.ltx リーディングと題するゼミ（内部者向け）を開催していました。毎回3, 4人の東大TeX愛好会メンバーが参加して latex.ltx（LaTeX の本体，TeX Live 2014版）の内容をテーマに解説・議論していました。ゼミ資料の一部をこちらに公開しています。[https://github.com/UT-TeX/LaTeX-Readings](https://github.com/UT-TeX/LaTeX-Readings)
+
+また，TeXユーザの集い2015で本 latex.ltx リーディングに関連するLTを行いました。その際の講演資料は[ここ](http://ut-tex.org/pdf/texconf2015.pdf)から入手可能です。
 
 
 
@@ -58,7 +60,7 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
 
 
-ゼミ資料の一部をこちらに公開しています。Yellowリポジトリにそれぞれの資料の説明を載せる。[https://github.com/UT-TeX/Yellow](https://github.com/UT-TeX/Yellow)
+最近では，初級者から上級者まで，「発表者の勉強したいことを勉強する」をモットーに月例ゼミを行っています。ゼミ資料の一部をこちらに公開しています。[https://github.com/UT-TeX/Yellow](https://github.com/UT-TeX/Yellow)
 
 
 
@@ -66,9 +68,9 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
 
 
-「今週のマクロ」という名前ですが，不定期掲載モードです。
+「今週のマクロ」という名前ですが，不定期更新モードです。
 
-:::TODO::: githubに移行したいんだけど……phpデータがどこにあるか不明なのよね
+現在第８回まで公開しています→[https://github.com/UT-TeX/Weekly-Macros](https://github.com/UT-TeX/Weekly-Macros)
 
 
 
