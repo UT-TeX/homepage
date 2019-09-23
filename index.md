@@ -6,7 +6,7 @@
 
 日本における TeX/LaTeX の分野を超えたより一層の普及や，ユーザー視点に立った TeX 関連ツールの開発や研究を行うこと，そして何よりも「TeX/LaTeX を楽しむ」ことを目的に活動を開始しました。
 
-最新情報は[Twitter（@ut_tex_club）](#twitter)にて。
+最新情報は[Twitter（@ut_tex_club）](#6-twitter)にて。
 
 ## 2. Announcement
 
@@ -47,5 +47,4 @@
 ## 6. Twitter
 
 <div style="height: 480px; width:100%; overflow: scroll; background-color: white;"><a class="twitter-timeline" href="https://twitter.com/ut_tex_club?ref_src=twsrc%5Etfw">Tweets by ut_tex_club</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
 
