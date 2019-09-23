@@ -12,7 +12,7 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
 最新情報は[Twitter（@ut_tex_club）](#Twitter)にて。
 
-##Announcement
+## Announcement
 
 - 次回ゼミ情報です。10月はTeXConfがあるためゼミはお休みし，***11/6(水)の18:00-21:00@駒場キャンパス***で行います。詳細は追って連絡します。
 
@@ -22,7 +22,7 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
 あくまで月例勉強会の内部資料を公開しているだけなので内容の正確性は保証しません。ご了承ください。
 
-###2015年度：latex.ltxリーディング
+### 2015年度：latex.ltxリーディング
 
 :::TODO::: githubリポジトリに移行してリンクを貼る
 
@@ -30,7 +30,7 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
 :::TODO::: githubリポジトリに移行してリンクを貼る
 
-###2017年度〜：黄色い本（など）Seminar
+### 2017年度〜：黄色い本（など）Seminar
 
 ゼミ資料の一部をこちらに公開しています。Yellowリポジトリにそれぞれの資料の説明を載せる。[https://github.com/UT-TeX/Yellow](https://github.com/UT-TeX/Yellow)
 
@@ -46,7 +46,7 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
 ご連絡は ut.tex.club（あっとまーく）gmail.com までお気軽にどうぞ。
 
-##Twitter
+## Twitter
 
 <a class="twitter-timeline" href="https://twitter.com/ut_tex_club?ref_src=twsrc%5Etfw">Tweets by ut_tex_club</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
