@@ -24,21 +24,21 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
 ###2015年度：latex.ltxリーディング
 
-githubリポジトリに移行してリンクを貼る
+:::TODO::: githubリポジトリに移行してリンクを貼る
 
 ### 2016〜17年度：TeX by Topicリーディング
 
-githubリポジトリに移行してリンクを貼る
+:::TODO::: githubリポジトリに移行してリンクを貼る
 
 ###2017年度〜：黄色い本（など）Seminar
 
-ゼミ資料の一部をこちらに公開しています。[https://github.com/UT-TeX/Yellow](https://github.com/UT-TeX/Yellow)
+ゼミ資料の一部をこちらに公開しています。Yellowリポジトリにそれぞれの資料の説明を載せる。[https://github.com/UT-TeX/Yellow](https://github.com/UT-TeX/Yellow)
 
 ## Weekly Macros
 
 「今週のマクロ」という名前ですが，不定期掲載モードです。
 
-
+:::TODO::: githubに移行したいんだけど……phpデータがどこにあるか不明なのよね
 
 ## Contact
 
