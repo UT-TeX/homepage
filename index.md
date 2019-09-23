@@ -10,11 +10,9 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
 日本における TeX/LaTeX の分野を超えたより一層の普及や，ユーザー視点に立った TeX 関連ツールの開発や研究を行うこと，そして何よりも「TeX/LaTeX を楽しむ」ことを目的に活動を開始しました。
 
-最新情報はTwitterにて。[https://twitter.com/ut_tex_club](https://twitter.com/ut_tex_club)
+最新情報は[Twitter（@ut_tex_club）](#Twitter)にて。
 
-<a class="twitter-timeline" href="https://twitter.com/ut_tex_club?ref_src=twsrc%5Etfw">Tweets by ut_tex_club</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Announcement
+##Announcement
 
 - 次回ゼミ情報です。10月はTeXConfがあるためゼミはお休みし，***11/6(水)の18:00-21:00@駒場キャンパス***で行います。詳細は追って連絡します。
 
@@ -47,3 +45,10 @@ githubリポジトリに移行してリンクを貼る
 東京近辺に在学または在住中の大学所属学生（大学生・大学院生）でTeX/LaTeXを愛する方ならばどなたでもご参加いただけます。それ以外の方でも何らかの形で愛好会の活動に関わりたいという方がいらっしゃいましたらぜひご相談ください。
 
 ご連絡は ut.tex.club（あっとまーく）gmail.com までお気軽にどうぞ。
+
+##Twitter
+
+<a class="twitter-timeline" href="https://twitter.com/ut_tex_club?ref_src=twsrc%5Etfw">Tweets by ut_tex_club</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
