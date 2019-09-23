@@ -52,7 +52,7 @@ See [https://ut-tex.org](https://ut-tex.org) for now.
 
 
 
-:::TODO::: githubリポジトリに移行してリンクを貼る
+2016〜17年度，本郷キャンパスにてTeX by Topic（VICTOR EIJKHOUT著）リーディングゼミ（内部者向け）を開催していました。当時の資料はこちらから一部公開しています。[https://github.com/UT-TeX/TeXbyTopic_reading](https://github.com/UT-TeX/TeXbyTopic_reading)
 
 
 
