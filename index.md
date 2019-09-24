@@ -1,4 +1,4 @@
-# 東大TeX愛好会
+# 東大TeX愛好会 Official Homepage
 
 ## 1. About Us
 
@@ -47,4 +47,3 @@
 ## 6. Twitter
 
 <div style="height: 480px; width:100%; overflow: scroll; background-color: white;"><a class="twitter-timeline" href="https://twitter.com/ut_tex_club?ref_src=twsrc%5Etfw">Tweets by ut_tex_club</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
