@@ -10,9 +10,9 @@
 
 ## 2. Announcement
 
-- 次回ゼミ情報です。10月はTeXConfがあるためゼミはお休みし，***11/6(水)の18:00-21:00@駒場キャンパス***で行います。詳細は追って連絡します。
+- 次回ゼミ情報です。***12/2(月)の18:00-21:00@駒場キャンパス***で行います。詳細は追ってTwitterで連絡します。
 
-- 東大TeX愛好会がTeXConfに出ます！2019年10月12日（土）[青山学院アスタジオ](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.aogaku-astudio.com%2F&t=NDlmMzE0MTUzMGIxZGM4MzcxMjYyNjFlMDg3OWZhMTZmNjA2MjJkMSwzbmhuRFkzdQ%3D%3D&b=t%3AFBC3ivdzr-QGwJdYylkkMA&p=https%3A%2F%2Ftexconf2019.tumblr.com%2Fpost%2F186806708591%2Fsecond-announcement&m=1) B1 ホール 09:45–10:00 〈ショートコミュニケーション〉『東大TeX愛好会5年のあゆみ』（アブストラクト：[PDF](https://t.umblr.com/redirect?z=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1kQcf81q5r0gTuW5fMKeNsRLPcxvmKZ3m&t=N2E5YWZkY2ZhNDE1ZWVjNDZjMzk5M2M2NmIyZjQ4YTdmNWYwMzJlZiwzbmhuRFkzdQ%3D%3D&b=t%3AFBC3ivdzr-QGwJdYylkkMA&p=https%3A%2F%2Ftexconf2019.tumblr.com%2Fpost%2F186806708591%2Fsecond-announcement&m=1)）
+- 東大TeX愛好会がTeXConfに出る予定でしたが台風の影響でTeXConfが中止になりました。2019年10月12日（土）[青山学院アスタジオ](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.aogaku-astudio.com%2F&t=NDlmMzE0MTUzMGIxZGM4MzcxMjYyNjFlMDg3OWZhMTZmNjA2MjJkMSwzbmhuRFkzdQ%3D%3D&b=t%3AFBC3ivdzr-QGwJdYylkkMA&p=https%3A%2F%2Ftexconf2019.tumblr.com%2Fpost%2F186806708591%2Fsecond-announcement&m=1) B1 ホール 09:45–10:00 〈ショートコミュニケーション〉『東大TeX愛好会5年のあゆみ』（アブストラクト：[PDF](https://t.umblr.com/redirect?z=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1kQcf81q5r0gTuW5fMKeNsRLPcxvmKZ3m&t=N2E5YWZkY2ZhNDE1ZWVjNDZjMzk5M2M2NmIyZjQ4YTdmNWYwMzJlZiwzbmhuRFkzdQ%3D%3D&b=t%3AFBC3ivdzr-QGwJdYylkkMA&p=https%3A%2F%2Ftexconf2019.tumblr.com%2Fpost%2F186806708591%2Fsecond-announcement&m=1)）
 
 ## 3. Seminar
 
