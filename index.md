@@ -10,9 +10,9 @@
 
 ## 2. Announcement
 
-- ゼミ情報です。次回は***2020/2/29(土)の9:00-12:00@駒場キャンパス***にて行います。
-
+- ゼミ情報です。次回は***2020年4月中にオンラインで新歓を兼ねて***行います。
 - 東大TeX愛好会が2019年10月12日（土）のTeXConfに出る予定でしたが台風の影響でTeXConfが中止になりました。アブストラクトを置いておきます。〈ショートコミュニケーション〉『東大TeX愛好会5年のあゆみ』（アブストラクト：[PDF](https://t.umblr.com/redirect?z=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1kQcf81q5r0gTuW5fMKeNsRLPcxvmKZ3m&t=N2E5YWZkY2ZhNDE1ZWVjNDZjMzk5M2M2NmIyZjQ4YTdmNWYwMzJlZiwzbmhuRFkzdQ%3D%3D&b=t%3AFBC3ivdzr-QGwJdYylkkMA&p=https%3A%2F%2Ftexconf2019.tumblr.com%2Fpost%2F186806708591%2Fsecond-announcement&m=1)）
+- 東大TeX愛好会が2020年4月もサークルオリエンテーションで新歓する予定でしたがCOVID-19の影響で中止になりました。オンラインゼミでの新歓が企画進行中です。当会にご興味を持ってくださった方はいつでもTwitterにDMいただくか， ut.tex.club（あっとまーく）gmail.com までどうぞ。
 
 ## 3. Seminar
 
