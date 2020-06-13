@@ -10,14 +10,9 @@
 
 ## 2. Announcement
 
-- ゼミ情報です。次回は6月7日20:00-22:00です。内容決まりましたら告知します。
-- （5月分）はちょっと早めに2020年4月29日(水)20:00-22:00に行いました。テーマは：初級者向け講座20:00-21:00（ループ，展開制御），中級者向け講座21:00-22:00（パターンマッチ，ハイフン区切りリストの実装）です。次の問題が，解けますか？資料はリポジトリの方に[置いてあります](https://github.com/UT-TeX/Yellow/tree/master/200429)。
-
-```
-\includepdfのオプションでは，[pages=1,3-5,8]のような指定が可能である。同様に，\hoge{1,3-5,8}としたらリスト：1,3,4,5,8のそれぞれに対して処理を施すような関数を定義せよ。
-```
-
+- ゼミ情報です。次回は2020年7月4日20:00-22:00です。内容決まりましたら告知します。
 - 東大TeX愛好会が2019年10月12日（土）のTeXConfに出る予定でしたが台風の影響でTeXConfが中止になりました。アブストラクトを置いておきます。〈ショートコミュニケーション〉『東大TeX愛好会5年のあゆみ』（アブストラクト：[PDF](https://t.umblr.com/redirect?z=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1kQcf81q5r0gTuW5fMKeNsRLPcxvmKZ3m&t=N2E5YWZkY2ZhNDE1ZWVjNDZjMzk5M2M2NmIyZjQ4YTdmNWYwMzJlZiwzbmhuRFkzdQ%3D%3D&b=t%3AFBC3ivdzr-QGwJdYylkkMA&p=https%3A%2F%2Ftexconf2019.tumblr.com%2Fpost%2F186806708591%2Fsecond-announcement&m=1)）
+
 - 東大TeX愛好会が2020年4月もサークルオリエンテーションで新歓する予定でしたがCOVID-19の影響で中止になりました。当会にご興味を持ってくださった方はいつでもTwitterにDMいただくか， ut.tex.club（あっとまーく）gmail.com までどうぞ。随時ゼミへのご参加も大歓迎です。
 
 ## 3. Seminar
