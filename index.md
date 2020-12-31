@@ -10,7 +10,7 @@
 
 ## 2. Announcement
 
-- ゼミ情報です。次回は2021年1月12日22:00-です。部員小ネタ持ち寄り企画(5)です。
+- ゼミ情報です。次回は2021年1月12日20:00-です。部員小ネタ持ち寄り企画(5)です。
 - 東大TeX愛好会が2020年11月21日（土）のOnline.tex 2020〈ショートコミュニケーション〉で発表しました。（資料：[PDF](https://speakerdeck.com/domperor/latex)）
 
 - 東大TeX愛好会が2020年4月もサークルオリエンテーションで新歓する予定でしたがCOVID-19の影響で中止になりました。当会にご興味を持ってくださった方はいつでもTwitterにDMいただくか， ut.tex.club（あっとまーく）gmail.com までどうぞ。随時ゼミへのご参加も大歓迎です。
@@ -47,4 +47,6 @@
 
 ## 6. Twitter
 
-<div style="height: 480px; width:100%; overflow: scroll; background-color: white;"><a class="twitter-timeline" href="https://twitter.com/ut_tex_club?ref_src=twsrc%5Etfw">Tweets by ut_tex_club</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<a class="twitter-timeline" data-width="480" data-height="600" href="https://twitter.com/ut_tex_club?ref_src=twsrc%5Etfw">Tweets by ut_tex_club</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
