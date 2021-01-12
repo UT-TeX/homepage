@@ -10,7 +10,10 @@
 
 ## 2. Announcement
 
-- ゼミ情報です。次回は2021年1月12日20:00-です。部員小ネタ持ち寄り企画(5)です。
+- ゼミ情報です。次回は2021年2月9日21:00-です。部員小ネタ持ち寄り企画(6)です。
+
+<iframe src="https://calendar.google.com/calendar/embed?src=ut.tex.club%40gmail.com&ctz=Asia%2FTokyo" style="border: 0" width="480" height="360" frameborder="0" scrolling="no"></iframe>
+
 - 東大TeX愛好会が2020年11月21日（土）のOnline.tex 2020〈ショートコミュニケーション〉で発表しました。（資料：[PDF](https://speakerdeck.com/domperor/latex)）
 
 - 東大TeX愛好会が2020年4月もサークルオリエンテーションで新歓する予定でしたがCOVID-19の影響で中止になりました。当会にご興味を持ってくださった方はいつでもTwitterにDMいただくか， ut.tex.club（あっとまーく）gmail.com までどうぞ。随時ゼミへのご参加も大歓迎です。
