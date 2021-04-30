@@ -10,7 +10,7 @@
 
 ## 2. Announcement
 
-- ゼミ情報です。次回は2021年2月9日21:00-です。部員小ネタ持ち寄り企画(6)です。
+- ゼミ情報です。次回は2021年05月11日21:00-です。新歓＆もっと黄色い本を読んでいきます。
 
 <iframe src="https://calendar.google.com/calendar/embed?src=ut.tex.club%40gmail.com&ctz=Asia%2FTokyo" style="border: 0" width="480" height="360" frameborder="0" scrolling="no"></iframe>
 
