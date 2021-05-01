@@ -10,7 +10,7 @@
 
 ## 2. Announcement
 
-- ゼミ情報です。次回は2021年05月11日21:00-です。新歓＆もっと黄色い本を読んでいきます。
+- ゼミ情報です。次回は2021年05月11日21:00-@Zoomです。新歓＆独習LaTeX2eを読んでいきます。
 
 <iframe src="https://calendar.google.com/calendar/embed?src=ut.tex.club%40gmail.com&ctz=Asia%2FTokyo" style="border: 0" width="480" height="360" frameborder="0" scrolling="no"></iframe>
 
@@ -44,7 +44,7 @@
 
 ## 5. Contact
 
-東京近辺に在学または在住中の大学所属学生（大学生・大学院生）でTeX/LaTeXを愛する方ならばどなたでもご参加いただけます。それ以外の方でも何らかの形で愛好会の活動に関わりたいという方がいらっしゃいましたらぜひご相談ください。
+大学所属学生（大学生・大学院生）でTeX/LaTeXを愛する方ならばどなたでもご参加いただけます。それ以外の方でも何らかの形で愛好会の活動に関わりたいという方がいらっしゃいましたらぜひご相談ください。
 
 ご連絡は ut.tex.club（あっとまーく）gmail.com までお気軽にどうぞ。
 
