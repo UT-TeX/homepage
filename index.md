@@ -10,7 +10,7 @@
 
 ## 2. Announcement
 
-- ゼミ情報です。次回は2021年10月17日21:00-@Zoomです。新歓＆独習LaTeX2eを読んでいきます。
+- ゼミ情報です。次回は2021年11月14日21:00-@Zoomです。新歓＆独習LaTeX2eを読んでいきます。
 
 <iframe src="https://calendar.google.com/calendar/embed?src=ut.tex.club%40gmail.com&ctz=Asia%2FTokyo" style="border: 0" width="480" height="360" frameborder="0" scrolling="no"></iframe>
 
