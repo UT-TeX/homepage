@@ -10,7 +10,7 @@
 
 ## 2. Announcement
 
-- ゼミ情報です。次回は2021年11月14日21:00-@Zoomです。新歓＆独習LaTeX2eを読んでいきます。
+- ゼミ情報です。月例セミナーの情報はカレンダーに表示してあります。
 
 <iframe src="https://calendar.google.com/calendar/embed?src=ut.tex.club%40gmail.com&ctz=Asia%2FTokyo" style="border: 0" width="480" height="360" frameborder="0" scrolling="no"></iframe>
 
@@ -19,6 +19,8 @@
 - 東大TeX愛好会が2020年4月もサークルオリエンテーションで新歓する予定でしたがCOVID-19の影響で中止になりました。当会にご興味を持ってくださった方はいつでもTwitterにDMいただくか， ut.tex.club（あっとまーく）gmail.com までどうぞ。随時ゼミへのご参加も大歓迎です。
 
 - 2021年度のサークルオリエンテーションもCOVID-19の影響で中止となりましたが，入会や見学は年中受け付けております。TwitterのDMへどうぞ。
+
+- 2022年度は本会はサークルオリエンテーションに出ておりませんが，入会や見学は年中受け付けております。TwitterのDMへどうぞ。
 
 ## 3. Seminar
 
