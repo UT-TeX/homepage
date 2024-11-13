@@ -38,7 +38,7 @@
 
 2016〜17年度，本郷キャンパスにてTeX by Topic（VICTOR EIJKHOUT著）リーディングゼミ（内部者向け）を開催していました。当時の資料はこちらから一部公開しています。[https://github.com/UT-TeX/TeXbyTopic_reading](https://github.com/UT-TeX/TeXbyTopic_reading)
 
-### 2017年度〜22年度：黄色い本（など）Seminar
+### 2017〜22年度：黄色い本（など）Seminar
 
 最近では，初級者から上級者まで，「発表者の勉強したいことを勉強する」をモットーに月例ゼミを行っています。ゼミ資料の一部をこちらに公開しています。[https://github.com/UT-TeX/Yellow](https://github.com/UT-TeX/Yellow)
 
